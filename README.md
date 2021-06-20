@@ -10,5 +10,7 @@ My Team Fortress 2 settings
 - masterconfig's modules.cfg
 - Some modified mods
 
-## Launch arguments (make sure to change the thread count depending on your system)
+## Launch arguments
 -high -threads 10 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
+
+Note: make sure to change the thread count depending on your system
