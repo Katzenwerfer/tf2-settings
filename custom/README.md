@@ -25,7 +25,7 @@ Models
 Misc
 - [Extended Round Start Theme](https://gamebanana.com/sounds/50458)
 
-Mastercomfig
+[Mastercomfig](https://mastercomfig.com/)
 - Medium-high preset
 - Flat mouse addon
 
