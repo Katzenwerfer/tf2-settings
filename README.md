@@ -13,4 +13,4 @@ My Team Fortress 2 settings
 ## Launch arguments
 -high -threads 10 -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars
 
-Note: make sure to change the thread count depending on your system
+Note: make sure to change the thread count depending on your CPU (CPUThreadCount-2)
