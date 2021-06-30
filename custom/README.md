@@ -1,4 +1,7 @@
-Textures
+# This is mostly a showcase of mods/huds I like.
+# More like an archive of links.
+
+## Textures
 - [TIP Kritzkrieg](https://gamebanana.com/mods/293822)
 - [TIP Sandvich](https://gamebanana.com/mods/286606)
 - [TIP Jag](https://gamebanana.com/mods/294527)
@@ -7,7 +10,7 @@ Textures
 - [Metal Meter Construction PDA](https://gamebanana.com/mods/204931)
 - [Ubercharge Texture Fix](https://gamebanana.com/mods/197951)
 
-Animations
+## Viewmodels
 - Scout FP Animation Overhaul (edited)
   - [Scout FP Animation Overhaul](https://gamebanana.com/mods/206352)
   - [DOOM style FaN](https://gamebanana.com/mods/206336)
@@ -18,16 +21,49 @@ Animations
 - [Engineer FP Animation Overhaul](https://gamebanana.com/mods/206285)
 - [Medic FP Animation Overhaul](https://gamebanana.com/mods/206300)
 - [Sniper FP Animation Overhaul](https://gamebanana.com/mods/206371)
-
-Models
 - [Better Heavy Viewmodel](https://gamebanana.com/mods/206134)
+- [First Person Outlines](https://gamebanana.com/wips/49156)
+- [Viewmodel Sway/Motion](https://gamebanana.com/mods/205766)
 
-Misc
+## Misc - I'm too lazy to assing a category to these ones
 - [Extended Round Start Theme](https://gamebanana.com/sounds/50458)
+- [Giblet Overhaul](https://gamebanana.com/mods/205664)
+- [Unique Rockets](https://gamebanana.com/wips/52457)
+- [The One Hit Wonder](https://gamebanana.com/mods/206361)
+- [Spectacular Bloodstains](https://gamebanana.com/mods/11632)
+- [Everik's Mercenaries](https://gamebanana.com/mods/298533)
+- [Invisible Taunt Props Fix](https://gamebanana.com/mods/36464)
+- [Grenade launcher reload fix](https://gamebanana.com/mods/36462)
+- [Toon Explosions](https://gamebanana.com/mods/12446)
+- [Cartoon/Comic Muzzleflashes](https://gamebanana.com/mods/12589)
+- [Toon Muzzle Flashes](https://gamebanana.com/mods/12592)
+- [Toon Rocket Trails](https://gamebanana.com/mods/12410)
+- [Toon Explosion FX](https://gamebanana.com/mods/12446)
+- [Icy Medibeam](https://gamebanana.com/mods/12052)
+- [Updated pyrovison](https://gamebanana.com/mods/36454)
+- [Panic Attack Drum Removal](https://gamebanana.com/mods/205799)
+- [Pointing Wrangler Animation](https://gamebanana.com/mods/206271)
+- [Advanced Settings+](https://gamebanana.com/mods/36456)
+- [Rainbow Ubercharge](https://gamebanana.com/mods/198007)
+- [Fixed Pickup Loops](https://gamebanana.com/mods/296312)
+- [Viewmodel Offset Customizer](https://gamebanana.com/tools/7173)
 
-[Mastercomfig](https://mastercomfig.com/)
-- Medium-high preset
-- Flat mouse addon
+## Mastercomfig
+- [Mastercomfig](https://mastercomfig.com/) *
+  - Medium-high preset
+  - Flat mouse addon
 
-HUDs
-- [Budhud](https://github.com/rbjaxter/budhud)  <--- Current one
+## HUDs
+- [Budhud](https://github.com/rbjaxter/budhud) *
+- [dosHUD](https://gamebanana.com/mods/26587)
+- [3HUD](https://gamebanana.com/mods/297192)
+- [N1teHUD](https://gamebanana.com/mods/299014)
+- [HExHUD](https://gamebanana.com/mods/298232)
+- [HypnotizeHUD](https://gamebanana.com/mods/291589)
+- [SunsetHUD](https://gamebanana.com/mods/291779)
+- [m0rehud](https://gamebanana.com/mods/291596)
+- [TF2-ier Menus](https://gamebanana.com/mods/25184)
+- [FrankenHUD](https://gamebanana.com/mods/26850)
+- [Community HUD Resurrection](https://gamebanana.com/mods/26667)
+
+\*Currently using
