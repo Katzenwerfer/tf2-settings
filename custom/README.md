@@ -47,23 +47,29 @@
 - [Rainbow Ubercharge](https://gamebanana.com/mods/198007)
 - [Fixed Pickup Loops](https://gamebanana.com/mods/296312)
 - [Viewmodel Offset Customizer](https://gamebanana.com/tools/7173)
+- [Hyper explosions](https://gamebanana.com/mods/36705)
 
 ## Mastercomfig
 - [Mastercomfig](https://mastercomfig.com/) *
   - Medium-high preset
   - Flat mouse addon
 
-## HUDs
-- [Budhud](https://github.com/rbjaxter/budhud) *
-- [dosHUD](https://gamebanana.com/mods/26587)
+## HUDs - Get the latest from github if possible
+- [budhud](https://huds.tf/site/s-budhud) *
+- [dosHUD](https://huds.tf/site/s-dosHUD)
 - [3HUD](https://gamebanana.com/mods/297192)
 - [N1teHUD](https://gamebanana.com/mods/299014)
-- [HExHUD](https://gamebanana.com/mods/298232)
-- [HypnotizeHUD](https://gamebanana.com/mods/291589)
-- [SunsetHUD](https://gamebanana.com/mods/291779)
-- [m0rehud](https://gamebanana.com/mods/291596)
-- [TF2-ier Menus](https://gamebanana.com/mods/25184)
-- [FrankenHUD](https://gamebanana.com/mods/26850)
+- [HExHUD](https://huds.tf/site/s-HExHUD--3435)
+- [HypnotizeHUD](https://huds.tf/site/s-Hypnotize-Hud)
+- [SunsetHUD](https://huds.tf/site/s-Sunset-Hud)
+- [m0rehud](https://huds.tf/site/s-m0re-Hud)
+- [FrankenHUD](https://github.com/thekins/frankenhud/)
 - [Community HUD Resurrection](https://gamebanana.com/mods/26667)
+- [lavaHUD](https://huds.tf/site/s-lavaHUD)
+- [collyhud](https://huds.tf/site/s-collyhud)]
+- [BXHud](https://huds.tf/site/s-Bx-Hud)
+- [OxideHUD](https://github.com/Hypnootize/Oxide-Hud)
+- [TF2HudPlus](https://huds.tf/site/s-TF2HudPlus)
+- [Improved Default HUD](https://huds.tf/site/s-Improved-default-HUD)
 
 \*Currently using
