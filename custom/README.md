@@ -6,6 +6,7 @@
 - [TIP Sandvich](https://gamebanana.com/mods/286606)
 - [TIP Jag](https://gamebanana.com/mods/294527)
 - [TIP Flamethrower](https://gamebanana.com/mods/196621)
+- [TIP Cow Mangler 5000](https://gamebanana.com/mods/286236w)
 - [Hi-Res Degreaser Fix](https://gamebanana.com/mods/202984)
 - [Metal Meter Construction PDA](https://gamebanana.com/mods/204931)
 - [Ubercharge Texture Fix](https://gamebanana.com/mods/197951)
