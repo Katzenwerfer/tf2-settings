@@ -67,7 +67,7 @@
 - [FrankenHUD](https://github.com/thekins/frankenhud/)
 - [Community HUD Resurrection](https://gamebanana.com/mods/26667)
 - [lavaHUD](https://huds.tf/site/s-lavaHUD)
-- [collyhud](https://huds.tf/site/s-collyhud)]
+- [collyhud](https://huds.tf/site/s-collyhud)
 - [BXHud](https://huds.tf/site/s-Bx-Hud)
 - [OxideHUD](https://github.com/Hypnootize/Oxide-Hud)
 - [TF2HudPlus](https://huds.tf/site/s-TF2HudPlus)
