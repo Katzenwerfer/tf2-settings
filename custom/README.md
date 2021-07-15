@@ -49,6 +49,7 @@
 - [Fixed Pickup Loops](https://gamebanana.com/mods/296312)
 - [Viewmodel Offset Customizer](https://gamebanana.com/tools/7173)
 - [Hyper explosions](https://gamebanana.com/mods/36705)
+- [P-REC](https://github.com/RGLgg/P-REC)
 
 ## Mastercomfig
 - [Mastercomfig](https://mastercomfig.com/) *
