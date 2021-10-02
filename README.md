@@ -9,7 +9,7 @@ My Team Fortress 2 settings
 ## It includes:
 
 - Class CFGs
-- my masterconfig settings
+- My masterconfig settings
 - A list of mods (and some with little modifications)
 - A list of maps I like to use
 
