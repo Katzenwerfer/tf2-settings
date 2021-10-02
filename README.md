@@ -10,7 +10,7 @@ My Team Fortress 2 settings
 
 - Class CFGs
 - my masterconfig settings
-- Some modified mods
+- A list of mods (and some with little modifications)
 - A list of maps I like to use
 
 ## Launch arguments
