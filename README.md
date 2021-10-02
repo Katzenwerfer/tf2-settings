@@ -4,7 +4,7 @@ My Team Fortress 2 settings
 
 ## Requirements:
 
-- [mastercomfig](https://mastercomfig.com/)
+- [mastercomfig](https://mastercomfig.com/) [NONE preset preferably]
 
 ## It includes:
 
