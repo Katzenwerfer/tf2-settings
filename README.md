@@ -21,12 +21,13 @@ You can also add this [extra arguments](https://github.com/PazerOP/tf2_bot_detec
 
 ## Notes
 
+
 I would recommend installing everything inside the `custom` folder instead of the game's `cfg` folder
+
 ```
-$ tree
-─ Team Fortress 2
-  └── tf
-      └── custom
-          └── [folder]
-              └── cfg
-              
+─── Team Fortress 2
+    └── tf
+        └── custom
+            └── KatConfig
+                └── cfg
+```
