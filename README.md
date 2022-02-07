@@ -28,9 +28,8 @@ I would recommend installing everything inside the `custom` folder instead of th
 ─── Team Fortress 2
     └── tf
         └── custom
-            └── [FOLDER]
-                ├── cfg
-                │   └── {Install CFGs here}
-                └── custom
-                    └── {Install mods from config here}
+            ├── [FOLDER]
+            │   └── cfg
+            │       └── {Install CFGs here}
+            └── {Install mods from config here}
 ```
