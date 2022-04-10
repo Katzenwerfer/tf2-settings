@@ -26,7 +26,7 @@
 - [First Person Outlines](https://gamebanana.com/wips/49156)
 - [Viewmodel Sway/Motion](https://gamebanana.com/mods/205766)
 
-## Misc - I'm too lazy to assing a category to these ones
+## Misc - I'm too [lazy](https://xkcd.com/1077/) to assing a category to these ones
 - [Extended Round Start Theme](https://gamebanana.com/sounds/50458)
 - [Giblet Overhaul](https://gamebanana.com/mods/205664)
 - [Unique Rockets](https://gamebanana.com/wips/52457)
@@ -50,11 +50,13 @@
 - [Viewmodel Offset Customizer](https://gamebanana.com/tools/7173)
 - [Hyper explosions](https://gamebanana.com/mods/36705)
 - [P-REC](https://github.com/RGLgg/P-REC)
+- [Ultimate-TF2-Visual-Fix-Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
 
 ## Mastercomfig
 - [Mastercomfig](https://mastercomfig.com/) *
-  - Medium-high preset
-  - Flat mouse addon
+  - "None" preset
+  - "Flat Mouse" addon
+  - "Null-Cancelling Movement" addon
 
 ## HUDs - Get the latest from github if possible
 - [budhud](https://huds.tf/site/s-budhud) *
@@ -74,4 +76,4 @@
 - [TF2HudPlus](https://huds.tf/site/s-TF2HudPlus)
 - [Improved Default HUD](https://huds.tf/site/s-Improved-default-HUD)
 
-\*Currently using
+\* Currently using
