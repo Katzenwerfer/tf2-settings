@@ -33,3 +33,4 @@ I would recommend installing everything inside the `custom` folder instead of th
             │       └── {Install CFGs here}
             └── {Install mods from config here}
 ```
+You can also use my installer script in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections  
