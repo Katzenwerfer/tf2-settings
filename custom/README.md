@@ -10,6 +10,8 @@
 - [Hi-Res Degreaser Fix](https://gamebanana.com/mods/202984)
 - [Metal Meter Construction PDA](https://gamebanana.com/mods/204931)
 - [Ubercharge Texture Fix](https://gamebanana.com/mods/197951)
+- [Dragon's Fury enhanced](https://gamebanana.com/mods/206458)
+- [Rainbow Ubercharge](https://gamebanana.com/mods/198007)
 
 ## Viewmodels
 - Scout FP Animation Overhaul (edited)
@@ -26,7 +28,7 @@
 - [First Person Outlines](https://gamebanana.com/wips/49156)
 - [Viewmodel Sway/Motion](https://gamebanana.com/mods/205766)
 
-## Misc - I'm too [lazy](https://xkcd.com/1077/) to assing a category to these ones
+## Misc - I'm too [lazy](https://xkcd.com/1077/) to assign a category to these ones
 - [Extended Round Start Theme](https://gamebanana.com/sounds/50458)
 - [Giblet Overhaul](https://gamebanana.com/mods/205664)
 - [Unique Rockets](https://gamebanana.com/mods/324446)
@@ -45,12 +47,44 @@
 - [Panic Attack Drum Removal](https://gamebanana.com/mods/205799)
 - [Pointing Wrangler Animation](https://gamebanana.com/mods/206271)
 - [Advanced Settings+](https://gamebanana.com/mods/36456)
-- [Rainbow Ubercharge](https://gamebanana.com/mods/198007)
 - [Fixed Pickup Loops](https://gamebanana.com/mods/296312)
 - [Viewmodel Offset Customizer](https://gamebanana.com/tools/7173)
 - [Hyper explosions](https://gamebanana.com/mods/36705)
 - [P-REC](https://github.com/RGLgg/P-REC)
 - [Ultimate-TF2-Visual-Fix-Pack](https://github.com/agrastiOs/Ultimate-TF2-Visual-Fix-Pack/releases)
+- [mat_phong 0 fix](https://gamebanana.com/mods/345643)
+- [mat_picmip -10 fix](https://gamebanana.com/mods/198036)
+- [Demoman Launchers' Reload fix](https://gamebanana.com/mods/206232)
+- [Triple barrel Loch-n-Load](https://gamebanana.com/mods/203785)
+- [Aligned Heal Beam](https://gamebanana.com/mods/12082)
+- [Playing with Danger round start](https://gamebanana.com/sounds/59800)
+- [Team Centric Sentry Guns](https://gamebanana.com/mods/199268)
+- [Quick-Fix Touchup](https://gamebanana.com/mods/205054)
+- [Bowless crusaders crosbow](https://gamebanana.com/mods/203574)
+- [Fixed Rocket Jumper](https://gamebanana.com/mods/313110)
+- [Proper Rocket Jumper](https://gamebanana.com/mods/204827)
+- [Upscaled 2K Menu Characters](https://gamebanana.com/mods/287264)
+- [Rosemary Baby Face's Blaster](https://gamebanana.com/mods/205022)
+- [Duplequation Shotgun Frontier Justice](https://gamebanana.com/mods/360402)
+- [Eye friendly Dragon's Fury](https://gamebanana.com/mods/12498)
+- [Grass(and Bush) Sway](https://gamebanana.com/mods/36779)
+- [Shiny Weapons](https://gamebanana.com/mods/340801)
+- [Altered Explosions & Building FX](https://gamebanana.com/mods/12457)
+- [Altered Projectile Trails](https://gamebanana.com/mods/12420)
+- [Altered Bullet Impacts](https://gamebanana.com/mods/12384)
+- [Altered Short Circuit Effects](https://gamebanana.com/mods/11900)
+- [Altered Jump Trails + Airblast Deflect](https://gamebanana.com/mods/11896)
+- [Burning Materials Redux](https://gamebanana.com/mods/11895)
+- [What's Left of Ye blood mod](https://gamebanana.com/mods/12374)
+- [SFM-like Phong and Normal Maps](https://gamebanana.com/mods/198538)
+- [TIP Itemfx](https://gamebanana.com/mods/11764)
+- [Skell's TF2TIP Soldier Textures](https://gamebanana.com/mods/278784)
+- [TF2-TIP](https://tf2tip.maxofs2d.net/)
+- [Enhanced Teleporter Effects](https://gamebanana.com/mods/12112)
+- [Portals Beta Teleporter Effects](https://gamebanana.com/mods/12111)
+- [The Mechanics Mjölnir Eureka Effect](https://gamebanana.com/mods/204684)
+- [Drastically improved tf_english.txt](https://gamebanana.com/mods/314843)
+- [TF2 Bot Overhaul](https://gamebanana.com/mods/37013)
 
 ## Mastercomfig
 - [Mastercomfig](https://mastercomfig.com/) *
@@ -75,5 +109,8 @@
 - [OxideHUD](https://github.com/Hypnootize/Oxide-Hud)
 - [TF2HudPlus](https://huds.tf/site/s-TF2HudPlus)
 - [Improved Default HUD](https://huds.tf/site/s-Improved-default-HUD)
+- [Final HUD](https://gamebanana.com/mods/349955)
+- [e.v.e HUD](https://gamebanana.com/mods/26852)
+- [N1TE HUD](https://gamebanana.com/mods/383154)
 
 \* Currently using
