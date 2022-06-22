@@ -29,7 +29,7 @@
 ## Misc - I'm too [lazy](https://xkcd.com/1077/) to assing a category to these ones
 - [Extended Round Start Theme](https://gamebanana.com/sounds/50458)
 - [Giblet Overhaul](https://gamebanana.com/mods/205664)
-- [Unique Rockets](https://gamebanana.com/wips/52457)
+- [Unique Rockets](https://gamebanana.com/mods/324446)
 - [The One Hit Wonder](https://gamebanana.com/mods/206361)
 - [Spectacular Bloodstains](https://gamebanana.com/mods/11632)
 - [Everik's Mercenaries](https://gamebanana.com/mods/298533)
