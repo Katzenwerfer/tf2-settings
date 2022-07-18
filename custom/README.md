@@ -85,6 +85,7 @@
 - [The Mechanics Mjölnir Eureka Effect](https://gamebanana.com/mods/204684)
 - [Drastically improved tf_english.txt](https://gamebanana.com/mods/314843)
 - [TF2 Bot Overhaul](https://gamebanana.com/mods/37013)
+- [Closed Captions](https://gamebanana.com/mods/25151) *
 
 ## Mastercomfig
 - [Mastercomfig](https://mastercomfig.com/) *
@@ -93,7 +94,7 @@
   - "Null-Cancelling Movement" addon
 
 ## HUDs - Get the latest from github if possible
-- [budhud](https://huds.tf/site/s-budhud) *
+- [budhud](https://huds.tf/site/s-budhud)
 - [dosHUD](https://huds.tf/site/s-dosHUD)
 - [3HUD](https://gamebanana.com/mods/297192)
 - [N1teHUD](https://gamebanana.com/mods/299014)
@@ -109,8 +110,11 @@
 - [OxideHUD](https://github.com/Hypnootize/Oxide-Hud)
 - [TF2HudPlus](https://huds.tf/site/s-TF2HudPlus)
 - [Improved Default HUD](https://huds.tf/site/s-Improved-default-HUD)
-- [Final HUD](https://gamebanana.com/mods/349955)
+- [Final HUD](https://gamebanana.com/mods/349955) *
 - [e.v.e HUD](https://gamebanana.com/mods/26852)
 - [N1TE HUD](https://gamebanana.com/mods/383154)
+
+## Crosshairs
+- [Improved crosshairs](https://docs.google.com/document/d/134zOJh4ZXWQEgTrKZ520kHQ8vGF-FOmzIw2aeltyYX0/)
 
 \* Currently using
