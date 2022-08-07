@@ -5,11 +5,15 @@ My Team Fortress 2 settings
 ## Requirements:
 
 - [mastercomfig](https://mastercomfig.com/) [**NONE** preset preferably]
+    - Flat mouse addon
+    - Null cancelling movement addon
+- [tf2-loadouts-script](https://github.com/jooonior/tf2-loadouts-script)
 
-## It includes:
+## What this repo has:
 
-- Class CFGs
 - My masterconfig settings
+- Class CFGs
+- Some custom scripts and binds
 - A list of mods (and some with little modifications)
 - A list of maps I like to use
 
@@ -33,4 +37,4 @@ I would recommend installing everything inside the `custom` folder instead of th
             │       └── {Install CFGs here}
             └── {Install mods from config here}
 ```
-You can also use my installer script in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections  
+You can also use my installer script (currently outdated) in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections  
