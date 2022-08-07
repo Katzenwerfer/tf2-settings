@@ -12,6 +12,7 @@
 - [Ubercharge Texture Fix](https://gamebanana.com/mods/197951)
 - [Dragon's Fury enhanced](https://gamebanana.com/mods/206458)
 - [Rainbow Ubercharge](https://gamebanana.com/mods/198007)
+- [Improved Weapon Materials](https://gamebanana.com/mods/392112)
 
 ## Viewmodels
 - Scout FP Animation Overhaul (edited)
