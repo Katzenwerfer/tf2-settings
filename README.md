@@ -7,7 +7,7 @@ My Team Fortress 2 settings
 - [mastercomfig](https://mastercomfig.com/) [**NONE** preset preferably]
     - Flat mouse addon
     - Null cancelling movement addon
-- [tf2-loadouts-script](https://github.com/jooonior/tf2-loadouts-script)
+- [tf2-loadouts-script](https://github.com/jooonior/tf2-loadouts-script) (follow installation instructions from the respective repo)
 
 ## What this repo has:
 
