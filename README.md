@@ -26,7 +26,9 @@ You can also add this [extra arguments](https://github.com/PazerOP/tf2_bot_detec
 ## Notes
 
 
-I would recommend installing everything inside the `custom` folder instead of the game's `cfg` folder
+I would recommend overwriting your gameinfo.txt file with mine if you want to have out of the box compatibility.
+
+In case you don't want to do that, I recommend you follow the next file structure to install everything.
 
 ```
 ─── Team Fortress 2
