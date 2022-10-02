@@ -20,7 +20,7 @@ My Team Fortress 2 settings
 ## Launch arguments
 
 `-high -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime`
-  
+
 You can also add this [extra arguments](https://github.com/PazerOP/tf2_bot_detector/issues/331#:~:text=to%20API%20changes.-,Temporary%20fix%3A,-Shut%20down%20steam) if you want to use [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector) without having to launch TF2 from the app
 
 ## Notes
@@ -37,4 +37,6 @@ I would recommend installing everything inside the `custom` folder instead of th
             │       └── {Install CFGs here}
             └── {Install mods from config here}
 ```
-You can also use my installer script (currently outdated) in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections  
+~~You can also use my installer script (currently outdated) in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections~~
+
+Script is broken due to changes in the structure of my config
