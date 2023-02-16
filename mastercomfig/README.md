@@ -1,1 +1,0 @@
-# You should install all mastercomfig related .vpk files inside this folder
