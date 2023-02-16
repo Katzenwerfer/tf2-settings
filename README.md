@@ -34,10 +34,12 @@ In case you don't want to do that, I recommend you follow the next file structur
 ─── Team Fortress 2
     └── tf
         └── custom
-            ├── [FOLDER]
+            ├── kat
             │   └── cfg
             │       └── {Install CFGs here}
-            └── {Install mods from config here}
+            └── mods
+                └── custom
+                    └── {Install mods from config here}
 ```
 ~~You can also use my installer script (currently outdated) in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections~~
 
