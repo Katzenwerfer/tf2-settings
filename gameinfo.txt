@@ -43,9 +43,24 @@
 			// pack up the custom content into a VPK.  To "install" a mod, just drop it in this
 			// folder.
 			//
-			// Note that this folder is scanned only when the game is booted.
-			game+mod+custom_mod tf/mastercomfig/*
-			game+mod+custom_mod tf/my-config/*
+			// Note that these folders are scanned only when the game is booted.
+			//
+			// Mod path template
+			// game+mod+custom_mod	tf/user/mods/TYPE/NUMBER/*
+
+			// Path for mastercomfig core files
+			game+mod+custom_mod tf/user/mods/mastercomfig/core/*
+			game+mod+custom_mod tf/user/mods/mastercomfig/extra/*
+
+			// Path for user scripts
+			game+mod+custom_mod tf/user/scripts/*
+
+			// Path for framework mods
+			game+mod+custom_mod tf/user/mods/frameworks/*
+
+			// The "tf/custom/*" path is left for legacy compatibility purposes
+			// Stuff inside it will override everything except mastercomfig, scripts
+			// and framework files
 			game+mod+custom_mod	tf/custom/*
 			game+mod+custom_mod tf/custom-load-second/*
 			game+mod+custom_mod tf/custom-load-third/*
