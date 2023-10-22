@@ -1,123 +1,129 @@
 "GameInfo"
 {
-	game	"Team Fortress 2"
-	type multiplayer_only
-	nomodels 1
-	nohimodel 1
-	nocrosshair 0
-	hidden_maps
-	{
-		"test_speakers"		1
-		"test_hardware"		1
-	}
-	nodegraph 0
-	GameData	"tf.fgd"
-	InstancePath "maps/instances/"
-	advcrosshair 1
-	supportsvr 1
+    game	"Team Fortress 2"
+    type multiplayer_only
+    nomodels 1
+    nohimodel 1
+    nocrosshair 0
+    hidden_maps
+    {
+        "test_speakers"		1
+        "test_hardware"		1
+    }
+    nodegraph 0
+    GameData	"tf.fgd"
+    InstancePath "maps/instances/"
+    advcrosshair 1
+    supportsvr 1
 
 
-	FileSystem
-	{
-		SteamAppId				440
-		
-		//
-		// Setup engine search paths.
-		//
-		// If a search path contains "_english", and the current language is not english, then
+    FileSystem
+    {
+        SteamAppId				440
+
+        //
+        // Setup engine search paths.
+        //
+        // If a search path contains "_english", and the current language is not english, then
 		// another search path will be inserted above the english one by replacing "_english" with
 		// the appropriate language.
-		//
-		// To debug how the engine has parsed this file, type "path" at the console.
-		//
-		// Search paths are relative to the base directory, which is where hl2.exe is found.
-		//
-		// |gameinfo_path| points at the directory where gameinfo.txt is.
-		// |all_source_engine_paths| points at the directory containing HL2 shared content.
-		//
-		SearchPaths
-		{
+        //
+        // To debug how the engine has parsed this file, type "path" at the console.
+        //
+        // Search paths are relative to the base directory, which is where hl2.exe is found.
+        //
+        // |gameinfo_path| points at the directory where gameinfo.txt is.
+        // |all_source_engine_paths| points at the directory cintaining HL2 shared content.
+        //
+        SearchPaths
+        {
 
-			// First, mount all user customizations.  This will search for VPKs and subfolders
+            // First, mount all user customizations.  This will search for VPKs and subfolders
 			// and mount them in alphabetical order.  The easiest way to distribute a mod is to
 			// pack up the custom content into a VPK.  To "install" a mod, just drop it in this
 			// folder.
-			//
-			// Note that these folders are scanned only when the game is booted.
-			//
-			// Mod path template
-			// game+mod+custom_mod	tf/user/mods/TYPE/NUMBER/*
+            //
+			// Note that this folder is scanned only when the game is booted.
+            //---------------------------------------------------//
+            // [INFO ABOUT THE NEW STRUCTURE]
+            //---------------------------------------------------//
+            // The file structure I propose forces a specific
+            // load order. This should be helpful with mods that
+            // might present conflicts, since the game only loads
+            // the data of the highest file in the hierarchy.
+            // Every path you add has to only have one vpk,
+            // otherwise you might as well use the standard
+            // structure.
 
-			// Path for mastercomfig core files
-			game+mod+custom_mod tf/user/mods/mastercomfig/core/*
-			game+mod+custom_mod tf/user/mods/mastercomfig/extra/*
+            // Path for user scripts
+            game+mod+custom_mod tf/user/scripts/*
 
-			// Path for user scripts
-			game+mod+custom_mod tf/user/scripts/*
+            // Path for mastercomfig core files
+            game+mod+custom_mod tf/user/mods/mastercomfig/core/*
+            game+mod+custom_mod tf/user/mods/mastercomfig/extra/*
 
-			// Path for framework mods
-			game+mod+custom_mod tf/user/mods/frameworks/*
-
-			// The "tf/custom/*" path is left for legacy compatibility purposes
-			// Stuff inside it will override everything except mastercomfig, scripts
-			// and framework files
+            // The "tf/custom/*" path is left for compatibility purposes.
+            // Stuff inside it will override everything except player scripts and mastercomfig files.
 			game+mod+custom_mod	tf/custom/*
-			game+mod+custom_mod tf/custom-load-second/*
-			game+mod+custom_mod tf/custom-load-third/*
-			game+mod+custom_mod tf/custom-load-fourth/*
-			game+mod+custom_mod tf/custom-load-fifth/*
 
-			// We search VPK files before ordinary folders, because most files will be found in
+            // Player mods
+            // You should list all your mods here
+            // game+mod+custom_mod tf/user/mods/TYPE/NUMBER/*
+            game+mod+custom_mod tf/user/mods/hud/mod1/*
+            game+mod+custom_mod tf/user/mods/texture/mod2/*
+            game+mod+custom_mod tf/user/mods/sound/mod3/*
+
+            // We search VPK files before ordinary folders, because most files will be found in
 			// VPK and we can avoid making thousands of file system calls to attempt to open files
 			// in folders where they don't exist.  (Searching a VPK is much faster than making an operating
 			// system call.)
-			game_lv				tf/tf2_lv.vpk
-			game+mod			tf/tf2_textures.vpk
-			game+mod			tf/tf2_sound_vo_english.vpk
-			game+mod			tf/tf2_sound_misc.vpk
-			game+mod+vgui		tf/tf2_misc.vpk
-			game				|all_source_engine_paths|hl2/hl2_textures.vpk
-			game				|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
-			game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
-			game+vgui			|all_source_engine_paths|hl2/hl2_misc.vpk
-			platform+vgui		|all_source_engine_paths|platform/platform_misc.vpk
+            game_lv				tf/tf2_lv.vpk
+            game+mod			tf/tf2_textures.vpk
+            game+mod			tf/tf2_sound_vo_english.vpk
+            game+mod			tf/tf2_sound_misc.vpk
+            game+mod+vgui		tf/tf2_misc.vpk
+            game				|all_source_engine_paths|hl2/hl2_textures.vpk
+            game				|all_source_engine_paths|hl2/hl2_sound_vo_english.vpk
+            game				|all_source_engine_paths|hl2/hl2_sound_misc.vpk
+            game+vgui			|all_source_engine_paths|hl2/hl2_misc.vpk
+            platform+vgui			|all_source_engine_paths|platform/platform_misc.vpk
 
-			// Now search loose files.  We'll set the directory containing the gameinfo.txt file
+            // Now search loose files.  We'll set the directory containing the gameinfo.txt file
 			// as the first "mod" search path (after any user customizations).  This is also the one
 			// that's used when writing to the "mod" path.
-			mod+mod_write+default_write_path		|gameinfo_path|.
+            mod+mod_write+default_write_path		|gameinfo_path|.
 
-			// Add the TF directory as a game search path.  This is also where where writes
+            // Add the TF directory as a game search path.  This is also where where writes
 			// to the "game" path go.
-			game+game_write		tf
+            game+game_write		tf
 
-			// Where the game's binaries are
-			gamebin				tf/bin
+            // Where the game's binaries are
+            gamebin				tf/bin
 
-			// Last, mount in shared HL2 loose files
-			game				|all_source_engine_paths|hl2
-			platform			|all_source_engine_paths|platform
+            // Last, mount in shared HL2 loose files
+            game				|all_source_engine_paths|hl2
+            platform			|all_source_engine_paths|platform
 
-			// Random files downloaded from gameservers go into a seperate directory, so
+            // Random files downloaded from gameservers go into a seperate directory, so
 			// that it's easy to keep those files segregated from the official game files
 			// or customizations intentially installed by the user.
-			//
-			// This directory is searched LAST.  If you visit a server and download
+            //
+            // This directory is searched LAST.  If you visit a server and download
 			// a custom model, etc, we don't want that file to override the default
 			// game file indefinitely (after you have left the server).  Servers CAN have
 			// custom content that overrides the default game files, it just needs to be
 			// packed up in the .bsp file so that it will be mounted as a map search pack.
 			// The map search pack is mounted at the top of the search path list,
 			// but only while you are connected that server and on that map.
-			game+download	tf/download
-		}
-	}
+            game+download	tf/download
+        }
+    }
 
-	ToolsEnvironment
-	{
-		"Engine"			"Source"
-		"UseVPLATFORM"		"1"
-		"PythonVersion"		"2.7"
-		"PythonHomeDisable"	"1"
-	}
+    ToolsEnvironment
+    {
+        "Engine"			"Source"
+        "UseVPLATFORM"		"1"
+        "PythonVersion"		"2.7"
+        "PythonHomeDisable"	"1"
+    }
 }
