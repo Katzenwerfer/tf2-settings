@@ -15,7 +15,6 @@ My Team Fortress 2 settings
 - Class CFGs
 - Some custom scripts and binds
 - A list of mods (and some with little modifications)
-- A list of maps I like to use
 
 ## Launch arguments
 
