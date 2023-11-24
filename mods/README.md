@@ -2,6 +2,8 @@
 
 Here you will find a showcase of some mods I like, alongside some merged vpks and files to customize huds.
 
+Do not I do not upate things very often, so certain modifications might not work with the latest version of mods.
+
 I don't own any of the content showcased in this folder unless stated otherwise.
 
 - Scout FP Animation Overhaul (edited)
