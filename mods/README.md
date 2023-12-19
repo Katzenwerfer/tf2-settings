@@ -10,4 +10,4 @@ I don't own any of the content showcased in this folder unless stated otherwise.
   - [Scout FP Animation Overhaul](https://gamebanana.com/mods/206352)
   - [DOOM style FaN](https://gamebanana.com/mods/206336)
 - [Kogasatopia Bundle](https://tf2.gyate.net/hat)
-- [Improved crosshairs](https://docs.google.com/document/d/134zOJh4ZXWQEgTrKZ520kHQ8vGF-FOmzIw2aeltyYX0/)
+- [Improved crosshairs](https://gamebanana.com/mods/462367) [[alt](https://docs.google.com/document/d/134zOJh4ZXWQEgTrKZ520kHQ8vGF-FOmzIw2aeltyYX0/)]
