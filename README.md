@@ -38,6 +38,6 @@ In case you don't want to do that, I recommend you follow the next file structur
             │       └── {Install CFGs here}
             └── {Install mods from config here}
 ```
-~~You can also use my installer script (currently outdated) in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections~~
+~~You can also use my installer script in the [Releases](https://github.com/Katzenwerfer/tf2-settings/releases) sections~~
 
 Script is broken due to changes in the structure of my config
