@@ -20,7 +20,7 @@ My Team Fortress 2 settings
 
 `-high -novid -nojoy -nosteamcontroller -nohltv -particles 1 -precachefontchars -noquicktime`
 
-You can also add this [extra arguments](https://github.com/PazerOP/tf2_bot_detector/issues/331#:~:text=to%20API%20changes.-,Temporary%20fix%3A,-Shut%20down%20steam) if you want to use [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector) without having to launch TF2 from the app
+You can also add these [extra arguments](https://github.com/PazerOP/tf2_bot_detector/issues/331#:~:text=to%20API%20changes.-,Temporary%20fix%3A,-Shut%20down%20steam) if you want to use [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector) without having to launch TF2 from the app
 
 ## Notes
 
