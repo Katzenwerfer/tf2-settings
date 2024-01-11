@@ -1,2 +1,3 @@
 *.txt linguist-language=keyvalues
 *.cfg linguist-language=keyvalues
+*.res linguist-language=keyvalues
